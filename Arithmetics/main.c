@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Arithmetics
 int main(void)
 {
     const double pi = 3.14159;
